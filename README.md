@@ -1,5 +1,4 @@
 # CASAP Automated Enrollment System using PHP/MySQLi
-
 <div align="center">
   <img src="casapaes.png" />
 </div>
